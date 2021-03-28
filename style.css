@@ -1,0 +1,38 @@
+.input-text , legend {
+	 text-transform: uppercase;
+
+}
+
+
+label {
+	text-transform: capitalize;
+
+
+}
+
+button {
+	border: none;
+	color: white;
+	padding: 15px 32px;
+        text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+        margin: auto;
+	cursor: pointer;
+	background-color:#e0e5d8 ;
+}
+
+
+button a {
+
+	text-docration:none;
+
+}
+
+body {
+	font-size:16;
+	font-family: Georgia, serif;
+	background-color :#e7dc18;
+	color:#182DE7;
+}
